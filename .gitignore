@@ -1,0 +1,9 @@
+# Competition data is restricted: never commit it.
+data/
+artifacts/
+models/
+reports/
+submissions/
+__pycache__/
+*.pyc
+.venv/
